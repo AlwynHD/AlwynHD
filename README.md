@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AlwynHD
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on absolutely Nothing
-- 📫 How to reach me U don't
+- 👋 Hi, I’m Alwyn
+- 👀 I’m interested in 
+- 🌱 I’m currently studying Computer Science
+- 📫 How to reach me: alwynsiby@hotmail.com
 
 <!---
 AlwynHD/AlwynHD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
